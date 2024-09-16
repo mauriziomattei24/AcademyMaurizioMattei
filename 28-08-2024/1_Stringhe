@@ -1,0 +1,10 @@
+# len() per ottenere la lunghezza di una stringa, 
+# upper() per convertire una stringa in maiuscolo, 
+# lower() per convertire una stringa in minuscolo, 
+# split() per dividere una stringa in una lista di sottostringhe in base a un delimitatore, 
+# replace() per sostituire parti di una stringa con un'altra, e molti altri.
+
+s = "ciao"
+print(len(s))
+print(s.replace("ciao","hello"))
+

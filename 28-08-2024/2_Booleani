@@ -1,0 +1,20 @@
+#and: restituisce True se entrambe le condizioni sono vere.
+# or: restituisce True se almeno una delle condizioni è vera.
+# not: restituisce il valore booleano opposto di ciò che segue.
+x = 5
+y = -10
+z = 7
+print(x<y and y>z)
+print(x<y or z>y)
+print(not(x<y))
+
+# == uguale a
+# != diverso da
+# < minore di
+# > maggiore di
+# <= minore o uguale a
+# >= maggiore o uguale a
+
+print(x==y)
+print(x!=y)
+print(x<y)

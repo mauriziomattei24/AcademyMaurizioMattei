@@ -1,0 +1,17 @@
+# Le liste sono rappresentate dal tipo di dato list e 
+# sono racchiuse tra parentesi quadre [ ].
+
+
+
+n = 10
+if n > 0:
+ print("il numero è positivo")
+ if n == 100:
+   print("Woow")
+elif n < 0:
+  print("il numero è negativo")
+else:
+  print("blocco else")
+
+
+  
